@@ -1,1 +1,4 @@
-PyYAML, argh, pathtools, watchdog
+PyYAML
+argh
+pathtools
+watchdog
