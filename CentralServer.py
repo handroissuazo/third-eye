@@ -3,11 +3,15 @@ from fnmatch import fnmatch
 from time import time
 from threading import Thread
 
+# GLOBAL terminal call to generate photos from video (just need to change the name of the video 3dRenderme.mp4 to whatever)
+makePhotosCmd = "ffmpeg -i 3dRenderMe.mp4 -vf fps=2/1 -s 1280/720 img%03d.jpg"
+
 # GLOBAL ftp object initialization
 # Login to FTP server.
-ftp=FTP("127.0.0.1")
+ftp=FTP("192.168.1.3")
 ftp.login()
 ftp.cwd('DCIM')               # change into \DCIM directory
+ftp.cwd('100MEDIA')               # change into \100MEDIA directory
 
 # Generate file information dictionary in the format
 # [{
@@ -17,7 +21,7 @@ ftp.cwd('DCIM')               # change into \DCIM directory
 # }, ... ]
 def get_video_file_info_from_server(directory, videoFilesArr):
     for filename in ftp.nlst(directory):
-        if fnmatch(filename, '*.mp4'):
+        if fnmatch(filename, '*.MOV'):
             bAddToVideoFiles = True
 
             # Make sure we haven't already saved the file.

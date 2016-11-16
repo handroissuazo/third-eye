@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="742e975d-0a99-4612-b170-e49ae915bd44" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/python3" afterPath="$PROJECT_DIR$/py3env/bin/python3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CentralServer.py" afterPath="$PROJECT_DIR$/CentralServer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClientModule.py" afterPath="$PROJECT_DIR$/ClientModule.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HostModule.py" afterPath="$PROJECT_DIR$/HostModule.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autodiscovery/__init__.py" afterPath="$PROJECT_DIR$/autodiscovery/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autodiscovery/client.py" afterPath="$PROJECT_DIR$/autodiscovery/client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autodiscovery/comms.py" afterPath="$PROJECT_DIR$/autodiscovery/comms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autodiscovery/host.py" afterPath="$PROJECT_DIR$/autodiscovery/host.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/__init__.py" afterPath="$PROJECT_DIR$/filemanager/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/filemanager.py" afterPath="$PROJECT_DIR$/filemanager/filemanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/receiver.py" afterPath="$PROJECT_DIR$/filemanager/receiver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/sender.py" afterPath="$PROJECT_DIR$/filemanager/sender.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/watchdog.py" afterPath="$PROJECT_DIR$/filemanager/watchdog.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pbuffer/__init__.py" afterPath="$PROJECT_DIR$/pbuffer/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pbuffer/pbuffer.py" afterPath="$PROJECT_DIR$/pbuffer/pbuffer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/activate" afterPath="$PROJECT_DIR$/py3env/bin/activate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/activate.csh" afterPath="$PROJECT_DIR$/py3env/bin/activate.csh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/activate.fish" afterPath="$PROJECT_DIR$/py3env/bin/activate.fish" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/activate_this.py" afterPath="$PROJECT_DIR$/py3env/bin/activate_this.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/easy_install" afterPath="$PROJECT_DIR$/py3env/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/easy_install-3.5" afterPath="$PROJECT_DIR$/py3env/bin/easy_install-3.5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/pip" afterPath="$PROJECT_DIR$/py3env/bin/pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/pip3" afterPath="$PROJECT_DIR$/py3env/bin/pip3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/pip3.5" afterPath="$PROJECT_DIR$/py3env/bin/pip3.5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/python-config" afterPath="$PROJECT_DIR$/py3env/bin/python-config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/bin/wheel" afterPath="$PROJECT_DIR$/py3env/bin/wheel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/distutils/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/distutils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/distutils/distutils.cfg" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/distutils/distutils.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/no-global-site-packages.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/no-global-site-packages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/orig-prefix.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/orig-prefix.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/easy_install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/DESCRIPTION.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/INSTALLER" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/METADATA" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/METADATA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/WHEEL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/metadata.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip-8.1.2.dist-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/__main__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/__main__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/controller.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/ansi.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/initialise.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/win32.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/win32.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/winterm.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/database.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/database.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/index.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/locators.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/locators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/manifest.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/markers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/metadata.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/resources.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/resources.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/scripts.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/util.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/version.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/constants.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/_base.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/ihatexml.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/ihatexml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/inputstream.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/inputstream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/sanitizer.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/sanitizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/tokenizer.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/tokenizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/_base.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/datrie.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/datrie.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/py.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/trie/py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/html5lib/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/ipaddress.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/ipaddress.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/_compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/_structures.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/_structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/markers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/requirements.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/requirements.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/version.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/packaging/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/bar.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/bar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/counter.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/counter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/helpers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/spinner.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/progress/spinner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/pyparsing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/re-vendor.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/re-vendor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/adapters.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/api.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/auth.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/cacert.pem" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/certs.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/cookies.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/exceptions.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/hooks.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/hooks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/models.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/sessions.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/status_codes.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/structures.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/retrying.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/retrying.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/six.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/_vendor/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/basecommand.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/basecommand.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/baseparser.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/baseparser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/cmdoptions.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/cmdoptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/completion.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/completion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/download.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/freeze.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/freeze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/hash.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/hash.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/help.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/help.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/list.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/search.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/show.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/show.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/uninstall.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/uninstall.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/commands/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/dictconfig.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/dictconfig.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/ordereddict.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/compat/ordereddict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/download.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/exceptions.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/index.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/locations.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/locations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/models/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/models/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/models/index.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/models/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/operations/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/operations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/operations/freeze.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/operations/freeze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/pep425tags.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/pep425tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_file.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_file.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_set.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_set.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_uninstall.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/req/req_uninstall.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/status_codes.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/appdirs.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/appdirs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/build.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/build.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/deprecation.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/deprecation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/encoding.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/encoding.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/filesystem.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/filesystem.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/hashes.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/hashes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/logging.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/logging.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/outdated.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/outdated.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/setuptools_build.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/setuptools_build.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/ui.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/utils/ui.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/bazaar.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/bazaar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/git.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/git.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/mercurial.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/mercurial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/subversion.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/vcs/subversion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pip/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/markers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/version.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/six.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/_vendor/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/extern/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/pkg_resources/extern/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/DESCRIPTION.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/INSTALLER" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/METADATA" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/METADATA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/RECORD" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/WHEEL" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/WHEEL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/dependency_links.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/metadata.json" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/metadata.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/zip-safe" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools-25.1.6.dist-info/zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/archive_util.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/archive_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/alias.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/alias.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_egg.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_egg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_rpm.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_rpm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_wininst.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/bdist_wininst.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/build_ext.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/build_ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/build_py.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/build_py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/develop.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/develop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/egg_info.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_egg_info.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_lib.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_lib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_scripts.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/install_scripts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/launcher manifest.xml" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/launcher manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/register.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/register.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/rotate.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/rotate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/saveopts.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/saveopts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/sdist.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/sdist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/setopt.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/setopt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/test.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/upload.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/upload.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/upload_docs.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/command/upload_docs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/depends.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/depends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/dist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/extension.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/extension.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/extern/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/extern/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/launch.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/launch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/lib2to3_ex.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/lib2to3_ex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/msvc.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/msvc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/package_index.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/package_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py26compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py26compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py27compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py27compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py31compat.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/py31compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/sandbox.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/sandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/script (dev).tmpl" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/script (dev).tmpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/script.tmpl" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/script.tmpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/site-patch.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/site-patch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/ssl_support.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/ssl_support.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/unicode_utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/unicode_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/utils.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/version.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/windows_support.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/setuptools/windows_support.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/DESCRIPTION.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/INSTALLER" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/LICENSE.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/METADATA" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/METADATA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/WHEEL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/metadata.json" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/metadata.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel-0.29.0.dist-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/__main__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/__main__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/archive.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/archive.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/bdist_wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/bdist_wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/decorator.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/decorator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/egg2wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/egg2wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/eggnames.txt" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/eggnames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/metadata.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/metadata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/paths.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/paths.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/pep425tags.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/pep425tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/pkginfo.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/pkginfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/djbec.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/djbec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/ed25519py.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/ed25519py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/keys.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/signatures/keys.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/complex-dist/complexdist/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/complex-dist/complexdist/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/complex-dist/setup.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/complex-dist/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/header.h" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/header.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/headersdist.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/headersdist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/setup.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/headers.dist/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/pydist-schema.json" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/pydist-schema.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/simple.dist/setup.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/simple.dist/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/simple.dist/simpledist/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/simple.dist/simpledist/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_basic.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_basic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_install.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_keys.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_keys.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_paths.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_paths.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_ranking.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_ranking.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_signatures.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_signatures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_tagopt.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_tagopt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_tool.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_tool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_wheelfile.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/test/test_wheelfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/tool/__init__.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/tool/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/util.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/wininst2wheel.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site-packages/wheel/wininst2wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/lib/python3.5/site.py" afterPath="$PROJECT_DIR$/py3env/lib/python3.5/site.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py3env/pip-selfcheck.json" afterPath="$PROJECT_DIR$/py3env/pip-selfcheck.json" />
+    </list>
+    <ignored path="SecurityEngine.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SecurityEngine$Host_Module.coverage" NAME="Host Module Coverage Results" MODIFIED="1478709114823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SecurityEngine$Central_Server.coverage" NAME="Central Server Coverage Results" MODIFIED="1479001804086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SecurityEngine$Client_Module.coverage" NAME="Client Module Coverage Results" MODIFIED="1478709119315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SecurityEngine" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="watchdog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filemanager/watchdog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HostModule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HostModule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CentralServer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CentralServer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-534">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/CentralServer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1535" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecurityEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecurityEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecurityEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CentralServer.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.Central Server">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="SecurityEngine" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Central Server" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/py3env/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CentralServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client Module" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/py3env/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SecurityEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClientModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Central Server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Client Module" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="742e975d-0a99-4612-b170-e49ae915bd44" name="Default" comment="" />
+      <created>1478705844407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478705844407</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding the Central Server implementation to monitor an FTP server for videos and download them onto the server machine. &#10;&#10;Now we must automate the 3D rendering process.">
+      <created>1479002038705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479002038705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1535" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18827361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25468165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39950064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding the Central Server implementation to monitor an FTP server for videos and download them onto the server machine. &#10;&#10;Now we must automate the 3D rendering process." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the Central Server implementation to monitor an FTP server for videos and download them onto the server machine. &#10;&#10;Now we must automate the 3D rendering process." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/filemanager/watchdog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HostModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CentralServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filemanager/watchdog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HostModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stable-req.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filemanager/watchdog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HostModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/ftplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="440" column="0" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CentralServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
