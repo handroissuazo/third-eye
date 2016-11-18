@@ -5,6 +5,8 @@ from threading import Thread
 
 # GLOBAL terminal call to generate photos from video (just need to change the name of the video 3dRenderme.mp4 to whatever)
 makePhotosCmd = "ffmpeg -i 3dRenderMe.mp4 -vf fps=2/1 -s 1280/720 img%03d.jpg"
+runSparseCmd = "./VisualSFM sfm ~/Downloads/superPhotos ~/Downloads/superPhotos/Money/cmdLineTest.nvm"
+runDenseAndRenderCmd = "./VisualSFM sfm+loadnvm+cmvs ~/Downloads/superPhotos/Money/cmdLineTest.nvm ~/Downloads/superPhotos/Money/cmdLineFinal.nvm"
 
 # GLOBAL ftp object initialization
 # Login to FTP server.
