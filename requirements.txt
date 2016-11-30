@@ -1,4 +1,0 @@
-PyYAML
-argh
-pathtools
-watchdog
