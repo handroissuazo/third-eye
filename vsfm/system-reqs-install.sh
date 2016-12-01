@@ -1,5 +1,4 @@
-#!/bin/sh
-sudo apt-get install libgtk2.0-dev freeglut3-dev libdevil-dev libglew-dev unzip
+#!/usr/bin/sh
 sudo apt-get install libboost-all-dev
 sudo apt-get install gsl-bin
 sudo apt-get install libgsl0-dev
