@@ -1,0 +1,616 @@
+
+VisualSFM 3D reconstruction, begin...
+Load cmdLineTest.nvm...
+
+img099
+image_size:	1280x720
+#sift count:	5635
+
+img101
+image_size:	1280x720
+#sift count:	6527
+
+img102
+image_size:	1280x720
+#sift count:	6953
+
+img029
+image_size:	1280x720
+#sift count:	7362
+
+img028
+image_size:	1280x720
+#sift count:	6740
+
+img030
+image_size:	1280x720
+#sift count:	7187
+
+img027
+image_size:	1280x720
+#sift count:	6815
+
+img100
+image_size:	1280x720
+#sift count:	5998
+
+img026
+image_size:	1280x720
+#sift count:	6078
+
+img031
+image_size:	1280x720
+#sift count:	7215
+
+img103
+image_size:	1280x720
+#sift count:	7248
+
+img104
+image_size:	1280x720
+#sift count:	6891
+
+img032
+image_size:	1280x720
+#sift count:	7413
+
+img033
+image_size:	1280x720
+#sift count:	7458
+
+img034
+image_size:	1280x720
+#sift count:	7470
+
+img035
+image_size:	1280x720
+#sift count:	7245
+
+img106
+image_size:	1280x720
+#sift count:	6919
+
+img105
+image_size:	1280x720
+#sift count:	7139
+
+img036
+image_size:	1280x720
+#sift count:	7367
+
+img037
+image_size:	1280x720
+#sift count:	7401
+
+img038
+image_size:	1280x720
+#sift count:	7618
+
+img108
+image_size:	1280x720
+#sift count:	6817
+
+img107
+image_size:	1280x720
+#sift count:	6875
+
+img109
+image_size:	1280x720
+#sift count:	6682
+
+img039
+image_size:	1280x720
+#sift count:	7927
+
+img110
+image_size:	1280x720
+#sift count:	7036
+
+img040
+image_size:	1280x720
+#sift count:	7197
+
+img111
+image_size:	1280x720
+#sift count:	6938
+
+img041
+image_size:	1280x720
+#sift count:	7366
+
+img112
+image_size:	1280x720
+#sift count:	7033
+
+img113
+image_size:	1280x720
+#sift count:	7090
+
+img042
+image_size:	1280x720
+#sift count:	7528
+
+img114
+image_size:	1280x720
+#sift count:	7026
+
+img043
+image_size:	1280x720
+#sift count:	7381
+
+img115
+image_size:	1280x720
+#sift count:	7170
+
+img044
+image_size:	1280x720
+#sift count:	7851
+
+img045
+image_size:	1280x720
+#sift count:	7663
+
+img116
+image_size:	1280x720
+#sift count:	7301
+
+img046
+image_size:	1280x720
+#sift count:	7335
+
+img117
+image_size:	1280x720
+#sift count:	7339
+
+img047
+image_size:	1280x720
+#sift count:	7370
+
+img118
+image_size:	1280x720
+#sift count:	7531
+
+img048
+image_size:	1280x720
+#sift count:	7449
+
+img098
+image_size:	1280x720
+#sift count:	5622
+
+img049
+image_size:	1280x720
+#sift count:	7644
+
+img025
+image_size:	1280x720
+#sift count:	5794
+
+img097
+image_size:	1280x720
+#sift count:	5245
+
+img024
+image_size:	1280x720
+#sift count:	5760
+
+img023
+image_size:	1280x720
+#sift count:	5612
+
+img096
+image_size:	1280x720
+#sift count:	5669
+
+img022
+image_size:	1280x720
+#sift count:	5469
+
+img095
+image_size:	1280x720
+#sift count:	5542
+
+img094
+image_size:	1280x720
+#sift count:	5492
+
+img021
+image_size:	1280x720
+#sift count:	5508
+
+img020
+image_size:	1280x720
+#sift count:	5572
+
+img093
+image_size:	1280x720
+#sift count:	5863
+
+img019
+image_size:	1280x720
+#sift count:	5735
+
+img092
+image_size:	1280x720
+#sift count:	6206
+
+img091
+image_size:	1280x720
+#sift count:	5842
+
+img018
+image_size:	1280x720
+#sift count:	5894
+
+img090
+image_size:	1280x720
+#sift count:	6015
+
+img017
+image_size:	1280x720
+#sift count:	6090
+
+img089
+image_size:	1280x720
+#sift count:	6395
+
+img016
+image_size:	1280x720
+#sift count:	6306
+
+img088
+image_size:	1280x720
+#sift count:	6413
+
+img015
+image_size:	1280x720
+#sift count:	6406
+
+img014
+image_size:	1280x720
+#sift count:	6710
+
+img087
+image_size:	1280x720
+#sift count:	7014
+
+img086
+image_size:	1280x720
+#sift count:	6697
+
+img013
+image_size:	1280x720
+#sift count:	6578
+
+img085
+image_size:	1280x720
+#sift count:	6843
+
+img012
+image_size:	1280x720
+#sift count:	7221
+
+img011
+image_size:	1280x720
+#sift count:	8806
+
+img083
+image_size:	1280x720
+#sift count:	7662
+
+img010
+image_size:	1280x720
+#sift count:	10699
+
+img084
+image_size:	1280x720
+#sift count:	7619
+
+img082
+image_size:	1280x720
+#sift count:	7982
+
+img009
+image_size:	1280x720
+#sift count:	12680
+
+img008
+image_size:	1280x720
+#sift count:	14181
+
+img007
+image_size:	1280x720
+#sift count:	14849
+
+img006
+image_size:	1280x720
+#sift count:	13750
+
+img005
+image_size:	1280x720
+#sift count:	13181
+
+img004
+image_size:	1280x720
+#sift count:	12653
+
+img003
+image_size:	1280x720
+#sift count:	12575
+
+img002
+image_size:	1280x720
+#sift count:	13297
+
+img001
+image_size:	1280x720
+#sift count:	14059
+
+img080
+image_size:	1280x720
+#sift count:	8219
+
+img081
+image_size:	1280x720
+#sift count:	7919
+
+img079
+image_size:	1280x720
+#sift count:	8436
+
+img078
+image_size:	1280x720
+#sift count:	8950
+
+img077
+image_size:	1280x720
+#sift count:	9148
+
+img076
+image_size:	1280x720
+#sift count:	9130
+
+img075
+image_size:	1280x720
+#sift count:	9277
+
+img074
+image_size:	1280x720
+#sift count:	9264
+
+img073
+image_size:	1280x720
+#sift count:	9148
+
+img072
+image_size:	1280x720
+#sift count:	9584
+
+img071
+image_size:	1280x720
+#sift count:	9647
+
+img070
+image_size:	1280x720
+#sift count:	9664
+
+img069
+image_size:	1280x720
+#sift count:	9647
+
+img068
+image_size:	1280x720
+#sift count:	9564
+
+img067
+image_size:	1280x720
+#sift count:	9667
+
+img066
+image_size:	1280x720
+#sift count:	9730
+
+img065
+image_size:	1280x720
+#sift count:	9618
+
+img064
+image_size:	1280x720
+#sift count:	9547
+
+img063
+image_size:	1280x720
+#sift count:	9631
+
+img062
+image_size:	1280x720
+#sift count:	9359
+
+img050
+image_size:	1280x720
+#sift count:	8273
+
+img051
+image_size:	1280x720
+#sift count:	8221
+
+img052
+image_size:	1280x720
+#sift count:	8362
+
+img061
+image_size:	1280x720
+#sift count:	8508
+
+img060
+image_size:	1280x720
+#sift count:	8487
+
+img053
+image_size:	1280x720
+#sift count:	8202
+
+img054
+image_size:	1280x720
+#sift count:	8158
+
+img055
+image_size:	1280x720
+#sift count:	7919
+
+img059
+image_size:	1280x720
+#sift count:	8564
+
+img058
+image_size:	1280x720
+#sift count:	8497
+
+img056
+image_size:	1280x720
+#sift count:	8111
+
+img057
+image_size:	1280x720
+#sift count:	8333
+
+Loading 23855 3D points...
+# images loaded:	118
+Loading image pixel data ...done in 0s
+Load NVM for dense reconstruction
+Save to /home/alejandro/Downloads/superPhotos/Money/cmdLineFinal.nvm ... done
+
+#############################
+Undistorting 118 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 8 threads...
+#00: img099 -> 00000000.jpg, 0.361 sec
+#02: img028 -> 00000004.jpg, 0.380 sec
+#03: img027 -> 00000006.jpg, 0.381 sec
+#06: img030 -> 00000005.jpg, 0.384 sec
+#05: img032 -> 00000012.jpg, 0.384 sec
+#04: img103 -> 00000010.jpg, 0.440 sec
+#07: img026 -> 00000008.jpg, 0.528 sec
+#01: img102 -> 00000002.jpg, 0.549 sec
+#02: img034 -> 00000014.jpg, 0.386 sec
+#06: img106 -> 00000016.jpg, 0.386 sec
+#00: img101 -> 00000001.jpg, 0.408 sec
+#03: img100 -> 00000007.jpg, 0.414 sec
+#05: img033 -> 00000013.jpg, 0.426 sec
+#04: img104 -> 00000011.jpg, 0.419 sec
+#07: img031 -> 00000009.jpg, 0.381 sec
+#01: img029 -> 00000003.jpg, 0.378 sec
+#02: img035 -> 00000015.jpg, 0.383 sec
+#06: img105 -> 00000017.jpg, 0.385 sec
+#00: img036 -> 00000018.jpg, 0.385 sec
+#03: img038 -> 00000020.jpg, 0.380 sec
+#05: img107 -> 00000022.jpg, 0.385 sec
+#04: img039 -> 00000024.jpg, 0.386 sec
+#07: img040 -> 00000026.jpg, 0.385 sec
+#01: img041 -> 00000028.jpg, 0.378 sec
+#02: img113 -> 00000030.jpg, 0.382 sec
+#00: img037 -> 00000019.jpg, 0.382 sec
+#06: img114 -> 00000032.jpg, 0.386 sec
+#03: img108 -> 00000021.jpg, 0.384 sec
+#05: img109 -> 00000023.jpg, 0.392 sec
+#04: img110 -> 00000025.jpg, 0.391 sec
+#07: img111 -> 00000027.jpg, 0.386 sec
+#01: img112 -> 00000029.jpg, 0.391 sec
+#02: img042 -> 00000031.jpg, 0.400 sec
+#00: img115 -> 00000034.jpg, 0.393 sec
+#06: img043 -> 00000033.jpg, 0.399 sec
+#03: img045 -> 00000036.jpg, 0.392 sec
+#05: img046 -> 00000038.jpg, 0.393 sec
+#04: img047 -> 00000040.jpg, 0.400 sec
+#07: img048 -> 00000042.jpg, 0.392 sec
+#01: img049 -> 00000044.jpg, 0.400 sec
+#02: img097 -> 00000046.jpg, 0.391 sec
+#00: img044 -> 00000035.jpg, 0.391 sec
+#06: img023 -> 00000048.jpg, 0.392 sec
+#03: img116 -> 00000037.jpg, 0.398 sec
+#05: img117 -> 00000039.jpg, 0.399 sec
+#04: img118 -> 00000041.jpg, 0.391 sec
+#07: img098 -> 00000043.jpg, 0.391 sec
+#01: img025 -> 00000045.jpg, 0.398 sec
+#00: img022 -> 00000050.jpg, 0.394 sec
+#02: img024 -> 00000047.jpg, 0.397 sec
+#06: img096 -> 00000049.jpg, 0.397 sec
+#03: img094 -> 00000052.jpg, 0.391 sec
+#05: img020 -> 00000054.jpg, 0.394 sec
+#04: img019 -> 00000056.jpg, 0.394 sec
+#07: img091 -> 00000058.jpg, 0.396 sec
+#01: img090 -> 00000060.jpg, 0.395 sec
+#00: img095 -> 00000051.jpg, 0.397 sec
+#02: img089 -> 00000062.jpg, 0.400 sec
+#06: img088 -> 00000064.jpg, 0.399 sec
+#03: img021 -> 00000053.jpg, 0.398 sec
+#05: img093 -> 00000055.jpg, 0.399 sec
+#04: img092 -> 00000057.jpg, 0.397 sec
+#07: img018 -> 00000059.jpg, 0.394 sec
+#01: img017 -> 00000061.jpg, 0.404 sec
+#02: img016 -> 00000063.jpg, 0.399 sec
+#00: img014 -> 00000066.jpg, 0.405 sec
+#06: img015 -> 00000065.jpg, 0.399 sec
+#03: img086 -> 00000068.jpg, 0.402 sec
+#05: img085 -> 00000070.jpg, 0.401 sec
+#04: img011 -> 00000072.jpg, 0.402 sec
+#07: img010 -> 00000074.jpg, 0.401 sec
+#01: img082 -> 00000076.jpg, 0.409 sec
+#00: img087 -> 00000067.jpg, 0.406 sec
+#02: img008 -> 00000078.jpg, 0.413 sec
+#03: img013 -> 00000069.jpg, 0.406 sec
+#06: img006 -> 00000080.jpg, 0.419 sec
+#05: img012 -> 00000071.jpg, 0.406 sec
+#04: img083 -> 00000073.jpg, 0.410 sec
+#07: img084 -> 00000075.jpg, 0.406 sec
+#01: img009 -> 00000077.jpg, 0.413 sec
+#02: img007 -> 00000079.jpg, 0.419 sec
+#00: img004 -> 00000082.jpg, 0.429 sec
+#03: img002 -> 00000084.jpg, 0.422 sec
+#06: img005 -> 00000081.jpg, 0.425 sec
+#05: img080 -> 00000086.jpg, 0.409 sec
+#04: img079 -> 00000088.jpg, 0.416 sec
+#07: img077 -> 00000090.jpg, 0.402 sec
+#01: img075 -> 00000092.jpg, 0.402 sec
+#02: img073 -> 00000094.jpg, 0.410 sec
+#06: img071 -> 00000096.jpg, 0.413 sec
+#00: img003 -> 00000083.jpg, 0.437 sec
+#03: img001 -> 00000085.jpg, 0.426 sec
+#05: img081 -> 00000087.jpg, 0.415 sec
+#04: img078 -> 00000089.jpg, 0.408 sec
+#07: img076 -> 00000091.jpg, 0.414 sec
+#01: img074 -> 00000093.jpg, 0.424 sec
+#02: img072 -> 00000095.jpg, 0.414 sec
+#06: img070 -> 00000097.jpg, 0.411 sec
+#03: img067 -> 00000100.jpg, 0.410 sec
+#00: img069 -> 00000098.jpg, 0.418 sec
+#05: img065 -> 00000102.jpg, 0.417 sec
+#04: img063 -> 00000104.jpg, 0.410 sec
+#07: img050 -> 00000106.jpg, 0.410 sec
+#01: img052 -> 00000108.jpg, 0.418 sec
+#02: img060 -> 00000110.jpg, 0.513 sec
+#06: img054 -> 00000112.jpg, 0.521 sec
+#03: img066 -> 00000101.jpg, 0.524 sec
+#00: img068 -> 00000099.jpg, 0.546 sec
+#05: img064 -> 00000103.jpg, 0.543 sec
+#04: img062 -> 00000105.jpg, 0.576 sec
+#07: img051 -> 00000107.jpg, 0.591 sec
+#01: img061 -> 00000109.jpg, 0.603 sec
+#03: img059 -> 00000114.jpg, 0.563 sec
+#00: img056 -> 00000116.jpg, 0.561 sec
+#02: img053 -> 00000111.jpg, 0.710 sec
+#06: img055 -> 00000113.jpg, 0.699 sec
+#03: img058 -> 00000115.jpg, 0.552 sec
+#00: img057 -> 00000117.jpg, 0.552 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs /home/alejandro/Downloads/superPhotos/Money/cmdLineFinal.nvm.cmvs/00/ 50 8
+genOption /home/alejandro/Downloads/superPhotos/Money/cmdLineFinal.nvm.cmvs/00/ 1 2 0.700000 7 3 8
+PMVS Batch file generated.
+PMVS step is skipped when using [+cmvs]. To also run PMVS,  
+Use [VisuaSFM sfm[+resume][+pmvs] input output] instead
+----------------------------------------------------------------
+VisualSFM 3D reconstruction, finished
+Totally 9.000 seconds used
+
+__LogFile: /home/alejandro/vsfm/vsfm/bin/log/[16_11_17][19_51_39][713].log

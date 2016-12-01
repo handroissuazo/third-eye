@@ -1,0 +1,529 @@
+
+VisualSFM 3D reconstruction, begin...
+Searching images in the specified folder
+0: img001
+image_size:	1280x720
+#sift count:	14059
+
+1: img002
+image_size:	1280x720
+#sift count:	13297
+
+2: img003
+image_size:	1280x720
+#sift count:	12575
+
+3: img004
+image_size:	1280x720
+#sift count:	12653
+
+4: img005
+image_size:	1280x720
+#sift count:	13181
+
+5: img006
+image_size:	1280x720
+#sift count:	13750
+
+6: img007
+image_size:	1280x720
+#sift count:	14849
+
+7: img008
+image_size:	1280x720
+#sift count:	14181
+
+8: img009
+image_size:	1280x720
+#sift count:	12680
+
+9: img010
+image_size:	1280x720
+#sift count:	10699
+
+10: img011
+image_size:	1280x720
+#sift count:	8806
+
+11: img012
+image_size:	1280x720
+#sift count:	7221
+
+12: img013
+image_size:	1280x720
+#sift count:	6578
+
+13: img014
+image_size:	1280x720
+#sift count:	6710
+
+14: img015
+image_size:	1280x720
+#sift count:	6406
+
+15: img016
+image_size:	1280x720
+#sift count:	6306
+
+16: img017
+image_size:	1280x720
+#sift count:	6090
+
+17: img018
+image_size:	1280x720
+#sift count:	5894
+
+18: img019
+image_size:	1280x720
+#sift count:	5735
+
+19: img020
+image_size:	1280x720
+#sift count:	5572
+
+20: img021
+image_size:	1280x720
+#sift count:	5508
+
+21: img022
+image_size:	1280x720
+#sift count:	5469
+
+22: img023
+image_size:	1280x720
+#sift count:	5612
+
+23: img024
+image_size:	1280x720
+#sift count:	5760
+
+24: img025
+image_size:	1280x720
+#sift count:	5794
+
+25: img026
+image_size:	1280x720
+#sift count:	6078
+
+26: img027
+image_size:	1280x720
+#sift count:	6815
+
+27: img028
+image_size:	1280x720
+#sift count:	6740
+
+28: img029
+image_size:	1280x720
+#sift count:	7362
+
+29: img030
+image_size:	1280x720
+#sift count:	7187
+
+30: img031
+image_size:	1280x720
+#sift count:	7215
+
+31: img032
+image_size:	1280x720
+#sift count:	7413
+
+32: img033
+image_size:	1280x720
+#sift count:	7458
+
+33: img034
+image_size:	1280x720
+#sift count:	7470
+
+34: img035
+image_size:	1280x720
+#sift count:	7245
+
+35: img036
+image_size:	1280x720
+#sift count:	7367
+
+36: img037
+image_size:	1280x720
+#sift count:	7401
+
+37: img038
+image_size:	1280x720
+#sift count:	7618
+
+38: img039
+image_size:	1280x720
+#sift count:	7927
+
+39: img040
+image_size:	1280x720
+#sift count:	7197
+
+40: img041
+image_size:	1280x720
+#sift count:	7366
+
+41: img042
+image_size:	1280x720
+#sift count:	7528
+
+42: img043
+image_size:	1280x720
+#sift count:	7381
+
+43: img044
+image_size:	1280x720
+#sift count:	7851
+
+44: img045
+image_size:	1280x720
+#sift count:	7663
+
+45: img046
+image_size:	1280x720
+#sift count:	7335
+
+46: img047
+image_size:	1280x720
+#sift count:	7370
+
+47: img048
+image_size:	1280x720
+#sift count:	7449
+
+48: img049
+image_size:	1280x720
+#sift count:	7644
+
+49: img050
+image_size:	1280x720
+#sift count:	8273
+
+50: img051
+image_size:	1280x720
+#sift count:	8221
+
+51: img052
+image_size:	1280x720
+#sift count:	8362
+
+52: img053
+image_size:	1280x720
+#sift count:	8202
+
+53: img054
+image_size:	1280x720
+#sift count:	8158
+
+54: img055
+image_size:	1280x720
+#sift count:	7919
+
+55: img056
+image_size:	1280x720
+#sift count:	8111
+
+56: img057
+image_size:	1280x720
+#sift count:	8333
+
+57: img058
+image_size:	1280x720
+#sift count:	8497
+
+58: img059
+image_size:	1280x720
+#sift count:	8564
+
+59: img060
+image_size:	1280x720
+#sift count:	8487
+
+60: img061
+image_size:	1280x720
+#sift count:	8508
+
+61: img062
+image_size:	1280x720
+#sift count:	9359
+
+62: img063
+image_size:	1280x720
+#sift count:	9631
+
+63: img064
+image_size:	1280x720
+#sift count:	9547
+
+64: img065
+image_size:	1280x720
+#sift count:	9618
+
+65: img066
+image_size:	1280x720
+#sift count:	9730
+
+66: img067
+image_size:	1280x720
+#sift count:	9667
+
+67: img068
+image_size:	1280x720
+#sift count:	9564
+
+68: img069
+image_size:	1280x720
+#sift count:	9647
+
+69: img070
+image_size:	1280x720
+#sift count:	9664
+
+70: img071
+image_size:	1280x720
+#sift count:	9647
+
+71: img072
+image_size:	1280x720
+#sift count:	9584
+
+72: img073
+image_size:	1280x720
+#sift count:	9148
+
+73: img074
+image_size:	1280x720
+#sift count:	9264
+
+74: img075
+image_size:	1280x720
+#sift count:	9277
+
+75: img076
+image_size:	1280x720
+#sift count:	9130
+
+76: img077
+image_size:	1280x720
+#sift count:	9148
+
+77: img078
+image_size:	1280x720
+#sift count:	8950
+
+78: img079
+image_size:	1280x720
+#sift count:	8436
+
+79: img080
+image_size:	1280x720
+#sift count:	8219
+
+80: img081
+image_size:	1280x720
+#sift count:	7919
+
+81: img082
+image_size:	1280x720
+#sift count:	7982
+
+82: img083
+image_size:	1280x720
+#sift count:	7662
+
+83: img084
+image_size:	1280x720
+#sift count:	7619
+
+84: img085
+image_size:	1280x720
+#sift count:	6843
+
+85: img086
+image_size:	1280x720
+#sift count:	6697
+
+86: img087
+image_size:	1280x720
+#sift count:	7014
+
+87: img088
+image_size:	1280x720
+#sift count:	6413
+
+88: img089
+image_size:	1280x720
+#sift count:	6395
+
+89: img090
+image_size:	1280x720
+#sift count:	6015
+
+90: img091
+image_size:	1280x720
+#sift count:	5842
+
+91: img092
+image_size:	1280x720
+#sift count:	6206
+
+92: img093
+image_size:	1280x720
+#sift count:	5863
+
+93: img094
+image_size:	1280x720
+#sift count:	5492
+
+94: img095
+image_size:	1280x720
+#sift count:	5542
+
+95: img096
+image_size:	1280x720
+#sift count:	5669
+
+96: img097
+image_size:	1280x720
+#sift count:	5245
+
+97: img098
+image_size:	1280x720
+#sift count:	5622
+
+98: img099
+image_size:	1280x720
+#sift count:	5635
+
+99: img100
+image_size:	1280x720
+#sift count:	5998
+
+100: img101
+image_size:	1280x720
+#sift count:	6527
+
+101: img102
+image_size:	1280x720
+#sift count:	6953
+
+102: img103
+image_size:	1280x720
+#sift count:	7248
+
+103: img104
+image_size:	1280x720
+#sift count:	6891
+
+104: img105
+image_size:	1280x720
+#sift count:	7139
+
+105: img106
+image_size:	1280x720
+#sift count:	6919
+
+106: img107
+image_size:	1280x720
+#sift count:	6875
+
+107: img108
+image_size:	1280x720
+#sift count:	6817
+
+108: img109
+image_size:	1280x720
+#sift count:	6682
+
+109: img110
+image_size:	1280x720
+#sift count:	7036
+
+110: img111
+image_size:	1280x720
+#sift count:	6938
+
+111: img112
+image_size:	1280x720
+#sift count:	7033
+
+112: img113
+image_size:	1280x720
+#sift count:	7090
+
+113: img114
+image_size:	1280x720
+#sift count:	7026
+
+114: img115
+image_size:	1280x720
+#sift count:	7170
+
+115: img116
+image_size:	1280x720
+#sift count:	7301
+
+116: img117
+image_size:	1280x720
+#sift count:	7339
+
+117: img118
+image_size:	1280x720
+#sift count:	7531
+
+Loading image pixel data ...done in 0s
+Compute all missing matches
+0 pairs to compute match
+Save to /home/alejandro/Downloads/superPhotos/Money/cmdLineTest.nvm ... done
+1916 pairs have two-view models
+3522 pairs have fundamental matrices
+Initialize with img099 and img101
+319 3D points initialized from two images
+PBA library version = 105
+PBA: 319 3D pts, 2 cams and 638 projs...
+PBA: 0.451 -> 0.246 (7 LMs in 0.03sec)
+Focal Length : [1536.000]->[1562.180]
+Focal Length : [1536.000]->[1533.403]
+
+#############################
+#3: [img102] sees 268 (+339) 3D points
+Estimated Focal Length [1704][1.33N]
+# 787 projs (309 pts and 0 merges)
+PBA: 628 3D pts, 3 cams and 1425 projs...
+PBA: 3.340 -> 0.587 (97 LMs in 0.35sec)
+
+**************************************
+#3/3:  791 projs and 311 pts added.
+PBA: 622 3D pts, 3 cams and 1413 projs...
+PBA: 0.586 -> 0.564 (50 LMs in 0.16sec)
+PBA: 622 3D pts, 3 cams and 1413 projs...
+**
+Notifying the working threads to quit **
+**Press Ctrl + C 3 times to force exit **
+PBA: 0.564 -> 0.551 (50 LMs in 0.14sec)
+Focal Length : [1703.793]->[1098.221]
+Radial Distortion : [-0.047 -> -11]
+Resuming SfM finished, 1 sec used
+
+---------------------------------------------------
+3 cams, 629 pts (3+: 169)
+1413 projections (3+: 507)
+---------------------------------------------------
+1 model(s) reconstructed from 118 images;
+3 modeled; 0 reused; 0 EXIF; 
+17MB(16) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 1 sec used
+0.7(0.7) seconds on Bundle Adjustment (+)
+0.7(0.7) seconds on Bundle Adjustment (*)
+#############################
+Save to /home/alejandro/Downloads/superPhotos/Money/cmdLineTest.nvm ... done
+----------------------------------------------------------------
+VisualSFM 3D reconstruction, aborted
+Totally 1.000 seconds used
+
+__LogFile: /home/alejandro/vsfm/vsfm/bin/log/[16_11_18][18_04_18][367].log

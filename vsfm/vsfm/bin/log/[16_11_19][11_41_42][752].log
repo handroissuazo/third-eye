@@ -1,0 +1,646 @@
+
+VisualSFM 3D reconstruction, begin...
+Load 3dRenderMe_sparse.nvm...
+
+img035
+image_size:	1280x720
+#sift count:	7245
+
+img037
+image_size:	1280x720
+#sift count:	7401
+
+img036
+image_size:	1280x720
+#sift count:	7367
+
+img034
+image_size:	1280x720
+#sift count:	7470
+
+img033
+image_size:	1280x720
+#sift count:	7458
+
+img105
+image_size:	1280x720
+#sift count:	7139
+
+img106
+image_size:	1280x720
+#sift count:	6919
+
+img107
+image_size:	1280x720
+#sift count:	6875
+
+img108
+image_size:	1280x720
+#sift count:	6817
+
+img032
+image_size:	1280x720
+#sift count:	7413
+
+img104
+image_size:	1280x720
+#sift count:	6891
+
+img103
+image_size:	1280x720
+#sift count:	7248
+
+img031
+image_size:	1280x720
+#sift count:	7215
+
+img030
+image_size:	1280x720
+#sift count:	7187
+
+img029
+image_size:	1280x720
+#sift count:	7362
+
+img102
+image_size:	1280x720
+#sift count:	6953
+
+img028
+image_size:	1280x720
+#sift count:	6740
+
+img101
+image_size:	1280x720
+#sift count:	6527
+
+img100
+image_size:	1280x720
+#sift count:	5998
+
+img099
+image_size:	1280x720
+#sift count:	5635
+
+img027
+image_size:	1280x720
+#sift count:	6815
+
+img109
+image_size:	1280x720
+#sift count:	6682
+
+img038
+image_size:	1280x720
+#sift count:	7618
+
+img039
+image_size:	1280x720
+#sift count:	7927
+
+img110
+image_size:	1280x720
+#sift count:	7036
+
+img111
+image_size:	1280x720
+#sift count:	6938
+
+img040
+image_size:	1280x720
+#sift count:	7197
+
+img041
+image_size:	1280x720
+#sift count:	7366
+
+img112
+image_size:	1280x720
+#sift count:	7033
+
+img042
+image_size:	1280x720
+#sift count:	7528
+
+img113
+image_size:	1280x720
+#sift count:	7090
+
+img114
+image_size:	1280x720
+#sift count:	7026
+
+img043
+image_size:	1280x720
+#sift count:	7381
+
+img115
+image_size:	1280x720
+#sift count:	7170
+
+img044
+image_size:	1280x720
+#sift count:	7851
+
+img045
+image_size:	1280x720
+#sift count:	7663
+
+img116
+image_size:	1280x720
+#sift count:	7301
+
+img046
+image_size:	1280x720
+#sift count:	7335
+
+img117
+image_size:	1280x720
+#sift count:	7339
+
+img047
+image_size:	1280x720
+#sift count:	7370
+
+img118
+image_size:	1280x720
+#sift count:	7531
+
+img048
+image_size:	1280x720
+#sift count:	7449
+
+img098
+image_size:	1280x720
+#sift count:	5622
+
+img026
+image_size:	1280x720
+#sift count:	6078
+
+img049
+image_size:	1280x720
+#sift count:	7644
+
+img025
+image_size:	1280x720
+#sift count:	5794
+
+img097
+image_size:	1280x720
+#sift count:	5245
+
+img024
+image_size:	1280x720
+#sift count:	5760
+
+img096
+image_size:	1280x720
+#sift count:	5669
+
+img023
+image_size:	1280x720
+#sift count:	5612
+
+img095
+image_size:	1280x720
+#sift count:	5542
+
+img022
+image_size:	1280x720
+#sift count:	5469
+
+img050
+image_size:	1280x720
+#sift count:	8273
+
+img021
+image_size:	1280x720
+#sift count:	5508
+
+img094
+image_size:	1280x720
+#sift count:	5492
+
+img020
+image_size:	1280x720
+#sift count:	5572
+
+img093
+image_size:	1280x720
+#sift count:	5863
+
+img092
+image_size:	1280x720
+#sift count:	6206
+
+img019
+image_size:	1280x720
+#sift count:	5735
+
+img091
+image_size:	1280x720
+#sift count:	5842
+
+img018
+image_size:	1280x720
+#sift count:	5894
+
+img017
+image_size:	1280x720
+#sift count:	6090
+
+img090
+image_size:	1280x720
+#sift count:	6015
+
+img089
+image_size:	1280x720
+#sift count:	6395
+
+img016
+image_size:	1280x720
+#sift count:	6306
+
+img088
+image_size:	1280x720
+#sift count:	6413
+
+img015
+image_size:	1280x720
+#sift count:	6406
+
+img087
+image_size:	1280x720
+#sift count:	7014
+
+img014
+image_size:	1280x720
+#sift count:	6710
+
+img086
+image_size:	1280x720
+#sift count:	6697
+
+img013
+image_size:	1280x720
+#sift count:	6578
+
+img085
+image_size:	1280x720
+#sift count:	6843
+
+img012
+image_size:	1280x720
+#sift count:	7221
+
+img084
+image_size:	1280x720
+#sift count:	7619
+
+img011
+image_size:	1280x720
+#sift count:	8806
+
+img083
+image_size:	1280x720
+#sift count:	7662
+
+img010
+image_size:	1280x720
+#sift count:	10699
+
+img082
+image_size:	1280x720
+#sift count:	7982
+
+img009
+image_size:	1280x720
+#sift count:	12680
+
+img008
+image_size:	1280x720
+#sift count:	14181
+
+img007
+image_size:	1280x720
+#sift count:	14849
+
+img006
+image_size:	1280x720
+#sift count:	13750
+
+img005
+image_size:	1280x720
+#sift count:	13181
+
+img004
+image_size:	1280x720
+#sift count:	12653
+
+img003
+image_size:	1280x720
+#sift count:	12575
+
+img002
+image_size:	1280x720
+#sift count:	13297
+
+img001
+image_size:	1280x720
+#sift count:	14059
+
+img080
+image_size:	1280x720
+#sift count:	8219
+
+img081
+image_size:	1280x720
+#sift count:	7919
+
+img079
+image_size:	1280x720
+#sift count:	8436
+
+img078
+image_size:	1280x720
+#sift count:	8950
+
+img077
+image_size:	1280x720
+#sift count:	9148
+
+img075
+image_size:	1280x720
+#sift count:	9277
+
+img076
+image_size:	1280x720
+#sift count:	9130
+
+img074
+image_size:	1280x720
+#sift count:	9264
+
+img073
+image_size:	1280x720
+#sift count:	9148
+
+img072
+image_size:	1280x720
+#sift count:	9584
+
+img071
+image_size:	1280x720
+#sift count:	9647
+
+img070
+image_size:	1280x720
+#sift count:	9664
+
+img069
+image_size:	1280x720
+#sift count:	9647
+
+img068
+image_size:	1280x720
+#sift count:	9564
+
+img067
+image_size:	1280x720
+#sift count:	9667
+
+img066
+image_size:	1280x720
+#sift count:	9730
+
+img065
+image_size:	1280x720
+#sift count:	9618
+
+img064
+image_size:	1280x720
+#sift count:	9547
+
+img063
+image_size:	1280x720
+#sift count:	9631
+
+img062
+image_size:	1280x720
+#sift count:	9359
+
+img061
+image_size:	1280x720
+#sift count:	8508
+
+img060
+image_size:	1280x720
+#sift count:	8487
+
+img051
+image_size:	1280x720
+#sift count:	8221
+
+img052
+image_size:	1280x720
+#sift count:	8362
+
+img053
+image_size:	1280x720
+#sift count:	8202
+
+img059
+image_size:	1280x720
+#sift count:	8564
+
+img054
+image_size:	1280x720
+#sift count:	8158
+
+img055
+image_size:	1280x720
+#sift count:	7919
+
+img058
+image_size:	1280x720
+#sift count:	8497
+
+img056
+image_size:	1280x720
+#sift count:	8111
+
+img057
+image_size:	1280x720
+#sift count:	8333
+
+Loading 22838 3D points...
+# images loaded:	118
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+Look for additional images in 
+3dRenderMe_sparse.nvm.txt
+Load 3dRenderMe_sparse.nvm.txt...
+# images loaded:	0
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+Compute all missing matches
+0 pairs to compute match
+PBA library version = 105
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+118 cams, 22839 pts (3+: 12666)
+105950 projections (3+: 85606)
+---------------------------------------------------
+1 model(s) reconstructed from 118 images;
+118 modeled; 0 reused; 0 EXIF; 
+17MB(16) used to store feature location.
+---------------------------------------------------
+Save to /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm ... done
+
+#############################
+Undistorting 118 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 8 threads...
+#03: img106 -> 00000006.jpg, 0.384 sec
+#07: img107 -> 00000007.jpg, 0.388 sec
+#04: img032 -> 00000009.jpg, 0.390 sec
+#01: img036 -> 00000002.jpg, 0.401 sec
+#02: img033 -> 00000004.jpg, 0.404 sec
+#06: img103 -> 00000011.jpg, 0.457 sec
+#05: img030 -> 00000013.jpg, 0.536 sec
+#00: img035 -> 00000000.jpg, 0.570 sec
+#03: img102 -> 00000015.jpg, 0.387 sec
+#07: img108 -> 00000008.jpg, 0.388 sec
+#04: img104 -> 00000010.jpg, 0.406 sec
+#02: img105 -> 00000005.jpg, 0.398 sec
+#06: img031 -> 00000012.jpg, 0.380 sec
+#01: img034 -> 00000003.jpg, 0.454 sec
+#05: img029 -> 00000014.jpg, 0.387 sec
+#00: img037 -> 00000001.jpg, 0.383 sec
+#03: img028 -> 00000016.jpg, 0.379 sec
+#07: img101 -> 00000017.jpg, 0.385 sec
+#04: img099 -> 00000019.jpg, 0.376 sec
+#02: img109 -> 00000021.jpg, 0.395 sec
+#06: img039 -> 00000023.jpg, 0.380 sec
+#01: img111 -> 00000025.jpg, 0.388 sec
+#05: img041 -> 00000027.jpg, 0.391 sec
+#00: img042 -> 00000029.jpg, 0.387 sec
+#03: img114 -> 00000031.jpg, 0.382 sec
+#07: img100 -> 00000018.jpg, 0.380 sec
+#04: img027 -> 00000020.jpg, 0.377 sec
+#02: img038 -> 00000022.jpg, 0.394 sec
+#06: img110 -> 00000024.jpg, 0.382 sec
+#01: img040 -> 00000026.jpg, 0.390 sec
+#05: img112 -> 00000028.jpg, 0.382 sec
+#00: img113 -> 00000030.jpg, 0.384 sec
+#03: img043 -> 00000032.jpg, 0.382 sec
+#07: img115 -> 00000033.jpg, 0.380 sec
+#04: img045 -> 00000035.jpg, 0.376 sec
+#02: img046 -> 00000037.jpg, 0.377 sec
+#06: img047 -> 00000039.jpg, 0.384 sec
+#01: img048 -> 00000041.jpg, 0.391 sec
+#05: img026 -> 00000043.jpg, 0.379 sec
+#00: img025 -> 00000045.jpg, 0.386 sec
+#03: img024 -> 00000047.jpg, 0.381 sec
+#07: img044 -> 00000034.jpg, 0.381 sec
+#04: img116 -> 00000036.jpg, 0.377 sec
+#02: img117 -> 00000038.jpg, 0.378 sec
+#06: img118 -> 00000040.jpg, 0.384 sec
+#01: img098 -> 00000042.jpg, 0.391 sec
+#05: img049 -> 00000044.jpg, 0.380 sec
+#00: img097 -> 00000046.jpg, 0.385 sec
+#03: img096 -> 00000048.jpg, 0.379 sec
+#07: img023 -> 00000049.jpg, 0.378 sec
+#04: img022 -> 00000051.jpg, 0.378 sec
+#02: img021 -> 00000053.jpg, 0.382 sec
+#06: img020 -> 00000055.jpg, 0.382 sec
+#01: img092 -> 00000057.jpg, 0.385 sec
+#05: img091 -> 00000059.jpg, 0.382 sec
+#00: img017 -> 00000061.jpg, 0.383 sec
+#03: img089 -> 00000063.jpg, 0.380 sec
+#07: img095 -> 00000050.jpg, 0.381 sec
+#04: img050 -> 00000052.jpg, 0.382 sec
+#02: img094 -> 00000054.jpg, 0.381 sec
+#06: img093 -> 00000056.jpg, 0.375 sec
+#01: img019 -> 00000058.jpg, 0.388 sec
+#05: img018 -> 00000060.jpg, 0.384 sec
+#00: img090 -> 00000062.jpg, 0.381 sec
+#03: img016 -> 00000064.jpg, 0.379 sec
+#07: img088 -> 00000065.jpg, 0.382 sec
+#04: img087 -> 00000067.jpg, 0.383 sec
+#02: img086 -> 00000069.jpg, 0.386 sec
+#06: img085 -> 00000071.jpg, 0.384 sec
+#01: img084 -> 00000073.jpg, 0.388 sec
+#05: img083 -> 00000075.jpg, 0.382 sec
+#00: img082 -> 00000077.jpg, 0.381 sec
+#03: img008 -> 00000079.jpg, 0.390 sec
+#07: img015 -> 00000066.jpg, 0.386 sec
+#04: img014 -> 00000068.jpg, 0.379 sec
+#02: img013 -> 00000070.jpg, 0.376 sec
+#06: img012 -> 00000072.jpg, 0.385 sec
+#01: img011 -> 00000074.jpg, 0.391 sec
+#05: img010 -> 00000076.jpg, 0.386 sec
+#00: img009 -> 00000078.jpg, 0.385 sec
+#03: img007 -> 00000080.jpg, 0.392 sec
+#07: img006 -> 00000081.jpg, 0.393 sec
+#04: img004 -> 00000083.jpg, 0.402 sec
+#06: img080 -> 00000087.jpg, 0.377 sec
+#02: img002 -> 00000085.jpg, 0.405 sec
+#01: img079 -> 00000089.jpg, 0.395 sec
+#05: img077 -> 00000091.jpg, 0.379 sec
+#00: img076 -> 00000093.jpg, 0.383 sec
+#03: img073 -> 00000095.jpg, 0.382 sec
+#07: img005 -> 00000082.jpg, 0.399 sec
+#04: img003 -> 00000084.jpg, 0.404 sec
+#06: img081 -> 00000088.jpg, 0.381 sec
+#02: img001 -> 00000086.jpg, 0.406 sec
+#01: img078 -> 00000090.jpg, 0.386 sec
+#05: img075 -> 00000092.jpg, 0.412 sec
+#00: img074 -> 00000094.jpg, 0.387 sec
+#03: img072 -> 00000096.jpg, 0.395 sec
+#07: img071 -> 00000097.jpg, 0.396 sec
+#04: img069 -> 00000099.jpg, 0.393 sec
+#06: img067 -> 00000101.jpg, 0.392 sec
+#02: img065 -> 00000103.jpg, 0.395 sec
+#01: img063 -> 00000105.jpg, 0.394 sec
+#05: img061 -> 00000107.jpg, 0.397 sec
+#00: img051 -> 00000109.jpg, 0.399 sec
+#03: img053 -> 00000111.jpg, 0.393 sec
+#07: img070 -> 00000098.jpg, 0.395 sec
+#04: img068 -> 00000100.jpg, 0.391 sec
+#06: img066 -> 00000102.jpg, 0.395 sec
+#02: img064 -> 00000104.jpg, 0.402 sec
+#01: img062 -> 00000106.jpg, 0.393 sec
+#05: img060 -> 00000108.jpg, 0.391 sec
+#00: img052 -> 00000110.jpg, 0.374 sec
+#03: img059 -> 00000112.jpg, 0.357 sec
+#04: img058 -> 00000115.jpg, 0.332 sec
+#07: img054 -> 00000113.jpg, 0.343 sec
+#06: img057 -> 00000117.jpg, 0.330 sec
+#07: img055 -> 00000114.jpg, 0.297 sec
+#04: img056 -> 00000116.jpg, 0.300 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm.cmvs/00/ 50 8
+genOption /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm.cmvs/00/ 1 2 0.700000 7 3 8
+2 clusters are generated for pmvs reconstruction.
+pmvs2 /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm.cmvs/00/ option-0000
+This may take a little more time, waiting...
+111 seconds were used by PMVS
+Loading option-0000.ply, 43786 vertices ...
+Loading patches and estimating point sizes..
+pmvs2 /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm.cmvs/00/ option-0001
+This may take a little more time, waiting...
+173 seconds were used by PMVS
+Loading option-0001.ply, 58835 vertices ...
+Loading patches and estimating point sizes..
+Save to /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.nvm ... done
+Save /home/alejandro/Documents/SecurityEngine/3dRenderMe/3dRenderMe_dense.0.ply ...done
+----------------------------------------------------------------
+VisualSFM 3D reconstruction, finished
+Totally 293.000 seconds used
+
+__LogFile: /home/alejandro/vsfm/vsfm/bin/log/[16_11_19][11_41_42][752].log
