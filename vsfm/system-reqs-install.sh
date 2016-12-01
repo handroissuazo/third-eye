@@ -7,3 +7,4 @@ sudo apt-get install liblapack-dev -y
 sudo apt-get install liblapack3 -y
 sudo apt-get install libopenblas-base -y
 sudo apt-get install libopenblas-dev -y
+sudo apt-get install ffmpeg
