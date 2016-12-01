@@ -11,10 +11,10 @@ CXX = g++
 YOUR_INCLUDE_PATH =
 
 #Your metis directory (contains header files under graclus1.2/metisLib/)
-YOUR_INCLUDE_METIS_PATH = -I/home/alejandro/vsfm/graclus1.2/metisLib
+YOUR_INCLUDE_METIS_PATH = -I/home/<yourusername>/vsfm/graclus1.2/metisLib
 
 #Your LDLIBRARY path (e.g., -L/usr/lib)
-YOUR_LDLIB_PATH = -L/home/alejandro/vsfm/graclus1.2
+YOUR_LDLIB_PATH = -L/home/<yourusername>/vsfm/graclus1.2
 
 ######################################################################
 CXXFLAGS_PMVS = -O2 -Wall -Wno-deprecated ${YOUR_INCLUDE_PATH}
