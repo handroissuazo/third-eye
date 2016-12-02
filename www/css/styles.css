@@ -1,0 +1,9 @@
+#MainContent div.row{
+    height: 95vh;
+    width: 100%;
+    background-color: #C0C0C0;	
+}
+
+#MainContent div.row:nth-child(odd){
+    background-color: #FFF;
+}
