@@ -1,9 +1,19 @@
-#MainContent div.row{
-    height: 95vh;
+section{
+    min-height: 70vh;
     width: 100%;
     background-color: #C0C0C0;	
+    
+    padding-top: 70px;
 }
 
-#MainContent div.row:nth-child(odd){
-    background-color: #FFF;
+section:nth-child(odd){
+    background-color: #EFEFEF;
+}
+
+.center-children{
+    padding-top: 10%;
+}
+
+img{
+    text-align: center;
 }
