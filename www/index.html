@@ -27,6 +27,7 @@
             <li><a href="#overview">Overview</a></li>
             <li><a href="#how">How it Works</a></li>
             <li><a href="#setup">How to Setup</a></li>
+            <li><a href="#run">How to Run</a></li>
             <li><a href="#references">References</a></li>
         </ul>
     </div>
@@ -35,6 +36,7 @@
     <div class="row">
         <div class="col-md-12 text-center">
             <h1>Third Eye</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/t9QOoHGou1E?autoplay=1" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </section>
@@ -348,6 +350,60 @@
                 </ol>
         </div>
     </div>
+</section>
+<section id="run" class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>How to Run</h3>
+        </div>
+        <div class="col-md-offset-2 col-md-4">
+            <h4>The Hardware</h4>
+            <p>After setting up the drone follow these steps to capture point of interest footage of your object.</p>
+            <ol>
+                <li>
+                    Allow the drone to take-off using it’s take-off feature. 
+                </li>
+                <li>
+                    Ensure your camera setting is on video.
+                </li>
+                <li>
+                    Select the point of interest feature in the advanced flight modes menu.
+                </li>
+                <li>
+                    Follow the required steps on the screen to configure your flight path.
+                </li>
+                <li>
+                    Once your drone begins to rotate around your configured flight path hit record on your video.
+                    <ul>
+                        <li>
+                            NOTE: Ensure central server is running at this time to automatically generate 3D renders. 
+                        </li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+        <div class="col-md-4">
+            <h4>The Software</h4>
+            <p>
+                Before starting, ensure your host machine is on the network provided by the DJI drone and have run one of the previous setups. You can have a video already on the drone, or be in the process of recording one. Our software handles both cases.     
+            </p>
+            <ol>
+                <li>
+                    In your main project directory start your virtual python3.5 environment.
+                    <p>
+                        <code>source py3env/bin/activate</code>
+                    </p>
+                </li>
+                <li>
+                    Run the central server
+                    <p>
+                        <code>python CentralServer.py</code>
+                    </p>
+                </li>
+            </ol>
+            
+        </div>
+    </div>  
 </section>
 <section id="references" class="container-fluid">
     <div class="row">
