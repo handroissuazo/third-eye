@@ -10,4 +10,4 @@ Dimas Gonzales.
 Prerequisites:
 Python 3.5 (or higher)
 
-If on Linux you will need to use venv in the p3env directory to utilize this tool.
+If on Linux you will need to use venv in the py3env directory to utilize this tool.
