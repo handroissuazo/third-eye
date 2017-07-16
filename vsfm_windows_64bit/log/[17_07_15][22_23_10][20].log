@@ -1,0 +1,34 @@
+
+VisualSFM 3D reconstruction, begin...
+Load 20170715_215621_sparse.nvm...
+
+Loading 3283 3D points...
+# images loaded:	40
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+Look for additional images in 
+C:\Users\Alejandro\thirdEye\third-eye/videos/20170715_215621_sparse.nvm.txt
+Load 20170715_215621_sparse.nvm.txt...
+# images loaded:	0
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+Compute all missing matches
+********* WARNING ***********
+More than 323MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+780 pairs to compute match
+NOTE: using 3 matching workers
+
+###########-------timing------#########
+780 Image Match finished, 0 sec used
+#############################
+
+Save to C:\Users\Alejandro\thirdEye\third-eye\videos\20170715_215621_dense.nvm ... done
+
+#############################
+Undistorting 40 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 8 threads...

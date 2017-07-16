@@ -1,0 +1,14 @@
+
+VisualSFM 3D reconstruction, begin...
+Load 20170715_215621_sparse.nvm...
+
+Loading 3283 3D points...
+# images loaded:	40
+Loading image pixel data ...done in 0s
+Load NVM for dense reconstruction
+Save to C:\Users\Alejandro\thirdEye\third-eye\videos\20170715_215621_dense.nvm ... done
+
+#############################
+Undistorting 40 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 8 threads...
